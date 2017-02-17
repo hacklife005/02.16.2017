@@ -1,0 +1,138 @@
+html,body{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	width: 100%;
+	height: 100px;
+	background: #092530;
+	border-top: 1px solid #B6B4B6;
+	border-bottom: 1px solid #5C6C61;
+}
+.logo{
+float: left;
+color: white;
+margin: 7px 0 0 170px;
+padding: 0;	
+}
+.nav{
+	padding: 0;
+	margin: 0 170px 0 0;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 20px 0 0;
+	padding: 0;
+	float: right;
+	color: white;
+	
+}
+.slider{
+	width: 100%;
+	height: 400px;
+	text-align: center;
+	margin: 0 ;
+	padding: 0 ;
+	background: #112E36;
+}
+.colortext{
+color: #FDB801;
+}
+
+.textSlider{
+	margin: 0  ;
+	padding: 90px 0 30px 0 ;
+	color: white;
+	}
+.pclasse{
+	margin: 0px;
+}
+.Signuptext{
+	color: white;
+	font-weight:100;
+	margin: 20px 0 5px 0;
+	padding: 0px;
+}	
+.input1{
+	padding: 7px  80px 7px 80px;
+	margin: 0 0 0 50px;
+}
+.input2{
+	color: white;
+	background: #FDB801;
+	font-weight: 800; 
+	padding: 6px  50px 6px 50px;
+}
+
+.socialbar{
+	padding: 30px;
+}
+.imgg2{
+	padding: 0 18px 0 18px;
+}
+.imgg4{
+	padding: 10px 18px 0 18px;
+}
+
+.sometext{
+	text-align:center;
+	width: 100%;
+	height: 300px;
+	background: #FDB801;
+	color: white;
+   padding: 0;
+   margin: 0;
+}
+
+.sometextP{
+	text-align: center;
+	text-indent: 1.2em;
+	margin: 0;
+	padding: 60px 500px 60px 500px;
+  	margin: 0px 50px 2px 50px;
+}
+.portfolio{
+	width: 100%;
+	height: auto;
+	background: #ECECEC;
+	padding: 10px 0 0 3px;
+	margin: 0;
+	
+}
+
+.portfolioImg{
+	text-align: center;
+	font-weight: 900;
+	padding: 0 ;
+}
+
+.raw1{
+	width: 100%;
+	height: 900px;
+	display: inline-block;
+	text-align: center;
+
+}
+.rawimg1{
+	float: right;
+		
+		margin: 0;
+	
+
+}
+.rawimg2{
+	float: right;
+
+
+		margin: 0;
+
+
+}
+.rawimg3{
+	float: right;
+	
+		margin: 0;
+
+}
